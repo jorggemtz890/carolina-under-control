@@ -483,10 +483,3 @@ body {
     
 }
 
-.video{
-    background-color: var(--blanco);
-}
-.video p{
-    margin-bottom: 4rem;
-    padding-bottom: 20rem;
-}
