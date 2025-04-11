@@ -482,4 +482,18 @@ body {
    
     
 }
+.video{
+    height: 50px;
+    width: 350px;
+    background-color: var(--blanco);
+    color: var(--principal);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.video p{
+    margin-bottom: 4rem;
+    padding-bottom: 20rem;
+}
 
