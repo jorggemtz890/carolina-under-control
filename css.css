@@ -497,3 +497,19 @@ body {
     padding-bottom: 20rem;
 }
 
+.apppanicuca{
+    height: 80px;
+    width: 350px;
+    background-color: var(--blanco);
+    color: var(--principal);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.apppanicuca p{
+    margin-bottom: 6rem;
+    padding-bottom: 20rem;
+}
+
+
